@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alpesh Kumar
 - 👨🏻‍💻 I’m interested in innovating and learning everyday(AI/MLOps/Python developer)
-- 🌱 I’m currently learning Django and React
 - 📫 Reach me @ alpesh2010kumar@gmail.com
 
 
